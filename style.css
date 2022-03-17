@@ -37,7 +37,7 @@ header > h1 {
 header > p {
     color: whitesmoke;
     text-align: center;
-    margin: 24px;
+    padding-bottom: 50px;
 }
 
 nav {
